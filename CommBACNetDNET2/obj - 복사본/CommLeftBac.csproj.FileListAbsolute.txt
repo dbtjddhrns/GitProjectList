@@ -1,8 +1,0 @@
-E:\인석업무\SI\SI소스\20100318\Source-테크윈\CommDevice\CommLeftBac\obj\Debug\Comm001.exe
-E:\인석업무\SI\SI소스\20100318\Source-테크윈\CommDevice\CommLeftBac\obj\Debug\Comm001.pdb
-E:\인석업무\SI\SI소스\20100318\Source-테크윈\CommDevice\Run\Comm001.exe
-E:\인석업무\SI\SI소스\20100318\Source-테크윈\CommDevice\Run\Comm001.pdb
-E:\인석업무\SI\SI소스\20100318\Source-테크윈\CommDevice\CommLeftBac\obj\Debug\ResolveAssemblyReference.cache
-E:\인석업무\SI\SI소스\20100318\Source-테크윈\CommDevice\CommLeftBac\obj\Debug\CommLeftBac.Properties.Resources.resources
-E:\인석업무\SI\SI소스\20100318\Source-테크윈\CommDevice\CommLeftBac\obj\Debug\CommLeftBac.csproj.GenerateResource.Cache
-E:\인석업무\SI\SI소스\20100318\Source-테크윈\CommDevice\CommLeftBac\obj\Debug\CommLeftBac.frmLeftBac.resources

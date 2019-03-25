@@ -1,8 +1,0 @@
-D:\인석업무\SI\SI소스\20120803\Source-대구청사\CommDevice\CommElectric\obj\Debug\ResolveAssemblyReference.cache
-D:\인석업무\SI\SI소스\20120803\Source-대구청사\CommDevice\CommElectric\obj\Debug\CommElectric.frmElectric.resources
-D:\인석업무\SI\SI소스\20120803\Source-대구청사\CommDevice\CommElectric\obj\Debug\CommEquipment.Properties.Resources.resources
-D:\인석업무\SI\SI소스\20120803\Source-대구청사\CommDevice\CommElectric\obj\Debug\CommElectric.csproj.GenerateResource.Cache
-D:\인석업무\SI\SI소스\20120803\Source-대구청사\CommDevice\Run\Comm002.exe
-D:\인석업무\SI\SI소스\20120803\Source-대구청사\CommDevice\Run\Comm002.pdb
-D:\인석업무\SI\SI소스\20120803\Source-대구청사\CommDevice\CommElectric\obj\Debug\Comm002.exe
-D:\인석업무\SI\SI소스\20120803\Source-대구청사\CommDevice\CommElectric\obj\Debug\Comm002.pdb
