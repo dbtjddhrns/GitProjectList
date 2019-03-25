@@ -30,7 +30,7 @@ namespace CommBACNetDNET
 
         public static IntPtr g_handle;
 
-        string fuckkkkkkkkkkkkkkkkkkkkkkkk;
+        
 
         // private 멤버변수
 
